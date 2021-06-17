@@ -1,3 +1,11 @@
+"""
+*
+**
+***
+****
+*****
+
+"""
 # Printing Rightangle triangle using list
 
 # taking input from user
@@ -9,4 +17,4 @@ for i in range(1, n+1):
     myList.append("*"*i)
 
 print("\n".join(myList))
-im
+i

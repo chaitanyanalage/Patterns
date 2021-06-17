@@ -1,3 +1,12 @@
+"""
+
+    *
+   **
+  ***
+ ****
+*****
+
+"""
 n=int(input("Enter Triangle Height: "))
 
 for i in range(n):

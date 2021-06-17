@@ -1,3 +1,11 @@
+"""
+
+****
+****
+****
+****
+
+"""
 #user length  input
 n = int(input("Enter side length:"))
 
